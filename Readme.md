@@ -18,7 +18,14 @@ git submodule update
 ```
 
 Please cite our paper if you find our work helpful for you!  
-If you experience any bugs or problems, please contact us. (cwwu@media.ee.ntu.edu.tw)
+
+## Notification
+This repo is only a fork from our main official [repo](https://github.com/cw1204772/AIC2018_iamai).
+If you have any questions about the code, you can contact to the first author Chih-Wei Wu or me.
+
+* Chih-Wei Wu (cwwu@media.ee.ntu.edu.tw)
+* Chih-Ting Liu (jackieliu@media.ee.ntu.edu.tw)
+
 
 ## Introduction
 This is an end-to-end vehicle detection, tracking, re-identification system built for 2018 AI City Challenge Track 3.
